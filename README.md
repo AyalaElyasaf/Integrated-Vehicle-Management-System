@@ -22,7 +22,7 @@ Welcome to the Integrated Vehicle Management System. This project aims to demons
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/AyalaElyasaf/Integrated-Vehicle-Management-System
+    git clone --depth 1 https://github.com/AyalaElyasaf/Integrated-Vehicle-Management-System.git 
     cd Integrated-Vehicle-Management-System
     ```
 
