@@ -41,6 +41,10 @@ We welcome contributions to the Integrated ehicle Management System! If you'd li
 4. Push to the branch: `git push origin feature-branch-name`
 5. Submit a pull request.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For any inquiries or questions, please let me know <span style="color: #4CAF50;">ayala76745@gmail.com</span>.
